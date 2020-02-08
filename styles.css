@@ -2,8 +2,8 @@ body{
     background-color: grey;
     background-image: url(https://bit.ly/2OwX4ex);
     background-size: cover;
-
 }
+
 nav a{
     margin-left: 14%;
     font-size: x-large;
@@ -11,12 +11,14 @@ nav a{
 h1{
     text-align: center;
 }
+
 img{
     border-radius: 100%;
     width: 500px;
     height:650px;
     margin-right: 240.5px;
 }
+
 #contacts{
     margin-right: 200px;
     text-align: center;
@@ -53,4 +55,17 @@ img{
       background-color: green;
       color: white;
 
+  }
+
+  table{
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+    padding: 5px;
+    margin-right: 300px;
+    
+  }
+  td >img{
+    margin-right: 300px;
   }
