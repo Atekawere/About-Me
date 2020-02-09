@@ -2,7 +2,8 @@ body{
     background-color: grey;
     background-image: url(https://bit.ly/2OwX4ex);
     background-size: cover;
-}
+    text-decoration: white;
+  }
 
 nav a{
     margin-left: 14%;
@@ -61,4 +62,6 @@ img{
      margin-left: 14%;
      font-size: x-large;
 }
-  
+#about{
+  font-size: x-large;
+}  
