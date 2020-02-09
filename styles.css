@@ -65,3 +65,10 @@ img{
 #about{
   font-size: x-large;
 }  
+.fle{
+  margin-left: 14%;
+}
+#contacts{
+  font-family: 'Dancing Script', cursive;
+  text-decoration-color: red;
+}
