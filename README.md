@@ -1,11 +1,15 @@
 # My portfolio
  This is my first portfolio
- ## languages used
+ ## Technologies used
  HTML
  CSS 
 
  ### Technical requirements
  Any web browser but i would recommend google chrome
+
+ #### Authors
+ The web was worked on by Jacinta Were
+
  #### Content information
  
  
@@ -30,5 +34,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## get my web through the link
-https://atekawere.github.io/About-Me/
+## get my web through the link below
+*https://atekawere.github.io/About-Me/
+
+## to do list
+*{Add some images and projects}
