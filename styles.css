@@ -1,6 +1,6 @@
 body{
     background-color: grey;
-    background-image: url(https://bit.ly/31DIbfH);
+    background-image: url(https://bit.ly/2vmmHYo);
     background-size: cover;
     text-decoration: white;
   }
@@ -71,4 +71,7 @@ img{
 #contacts{
   font-family: 'Dancing Script', cursive;
   text-decoration-color: red;
+}
+#background{
+  text-decoration: silver;
 }
